@@ -28,9 +28,7 @@
     <img src="https://img.shields.io/badge/Yarn-151515?style=for-the-badge&logo=yarn&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/NPM-151515?style=for-the-badge&logo=npm&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/VSCODE-151515?style=for-the-badge&logo=visual-studio-code&logoColor=41C9E2">&nbsp;
-    <img src="https://img.shields.io/badge/Windows-151515?style=for-the-badge&logo=windows&logoColor=41C9E2">&nbsp;
     <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=41C9E2">&nbsp;
-    <img src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord&logoColor=41C9E2">&nbsp;
 </p>
 
 ### 🔗 Connect with me:
@@ -45,9 +43,9 @@
 
 <div align="center">
   <a href="https://github.com/filipecolla/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=filipecolla&theme=react&show_icons=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=filipecolla&theme=react&show_icons=true" />
   </a>
   <a href="https://github.com/filipecolla/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipecolla&layout=compact&langs_count=8&card_width=320&theme=react" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipecolla&layout=compact&langs_count=8&card_width=320&theme=react" />
   </a>
 </div>
