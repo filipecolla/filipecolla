@@ -5,7 +5,7 @@
 ### 🤵 About me:
 
 <p>
-  Hello, my name is Filipe, and I'm currently a dedicated software developer passionate about turning ideas into innovative solutions. I'm constantly seeking challenging opportunities to apply my experience and drive technological development. I have experience and adeptness in teamwork, as well as a keen interest in acquiring more knowledge in the field.
+  Hello, my name is Filipe, and I'm currently a dedicated software developer passionate about turning ideas into innovative solutions. I'm constantly seeking challenging opportunities to apply my experience and drive technological development.
 </p>
 
 ### 💻 My Skills:
