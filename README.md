@@ -1,6 +1,6 @@
 # 🌍 Hello World, welcome to my profile!
 
-<img width=400 align="right" src="" />
+<img width=400 align="right" src="jiro-jiro-horikoshi.gif" />
 
 ### 🤵 About me:
 
